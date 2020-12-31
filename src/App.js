@@ -10,6 +10,7 @@ function App(props) {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Hap-bee new year!!!
+          test_name = {subject}
         </p>
       </header>
     </div>
