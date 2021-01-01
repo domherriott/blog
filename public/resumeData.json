@@ -1,0 +1,128 @@
+{
+  "main": {
+    "name":"Dom Herriott",
+    "occupation":"Management Consultant",
+    "description":"I specialise in analytics and data",
+    "image":"profilepic.jpg",
+    "bio":"I'm a management consultant specialising in analytics based in London. I have strong knowledge of Python and SQL and have experience productionising these technologies to live business-critical systems.",
+    "contactmessage":"N/A",
+    "email": "N/A",
+    "phone": "N/A",
+    "address":{
+      "street":"N/A",
+      "city":"London",
+      "state":"N/A",
+      "zip": "N/A"
+    },
+    "website": "TBD",
+    "resumedownload":"TBD",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/tbakerx",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"At a glance:",
+    "education":[
+      {
+        "school":"University of Oxford",
+        "degree":"Masters in Materials Science",
+        "graduated":"June 2018",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"Westcliff High School for Boys",
+        "degree":"A*s in Maths, Further Maths, Physics, Chemistry",
+        "graduated":"June 2014",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Deloitte",
+        "title":"Management Consultant",
+        "years":"September 2018 - Present",
+        "description":"I joined Deloitte as a graduate and have worked on multiple projects in clients' analytics divisions. This has included building production-grade cloud based solutions to help solve business problems."
+      },
+      {
+        "company":"Dyson",
+        "title":"Researcher",
+        "years":"June 2017 - September 2017",
+        "description":"Hair blah blah blah."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"SQL",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"AWS",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"40%"
+      },
+      {
+        "name":"CSS",
+        "level":"40%"
+      },
+      {
+        "name":"HTML5",
+        "level":"40%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Neural Network Art",
+        "category":"Programmatic art using Python and neural networks",
+        "image":"neural-network-art.jpg",
+        "url":""
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":""
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":""
+      }
+    ]
+  }
+}
