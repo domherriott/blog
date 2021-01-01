@@ -1,8 +1,8 @@
 {
   "main": {
-    "name":"Dom Herriott",
+    "name":"Dominic Herriott",
     "occupation":"Management Consultant",
-    "description":"I specialise in analytics and data",
+    "description":", specialising in data science and analytics.",
     "image":"profilepic.jpg",
     "bio":"I'm a management consultant specialising in analytics based in London. I have strong knowledge of Python and SQL and have experience productionising these technologies to live business-critical systems.",
     "contactmessage":"N/A",
@@ -18,25 +18,19 @@
     "resumedownload":"TBD",
     "social":[
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/dominic-herriott/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
+        "name":"github",
+        "url":"https://github.com/domherriott",
+        "className":"fa fa-github"
       },
       {
-        "name":"github",
-        "url":"http://github.com/tbakerx",
-        "className":"fa fa-github"
+        "name":"twitter",
+        "url":"https://twitter.com/DominicHerriott",
+        "className":"fa fa-twitter"
       }
     ]
   },
@@ -112,8 +106,8 @@
       {
         "title":"Resume Website",
         "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":""
+        "image":"resume-website.png",
+        "url":"https://github.com/domherriott/blog"
       }
     ]
   },
