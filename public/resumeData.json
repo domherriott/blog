@@ -108,6 +108,12 @@
         "category":"A React based resume website template",
         "image":"resume-website.png",
         "url":"https://github.com/domherriott/blog"
+      },
+      {
+        "title":"Masters Research Paper",
+        "category":"Published paper on the properties of high temperature superconductor RbFeSe",
+        "image":"masters-research.png",
+        "url":"https://iopscience.iop.org/article/10.1088/1361-6668/aaffa8"
       }
     ]
   },
