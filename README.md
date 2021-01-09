@@ -1,3 +1,13 @@
+# Hosting
+
+This web app is hosted using Netlify and uses a CI/CD pipeline so that all pushes to the main branch are automatically deployed to the live website [objective-turing-40f08d](https://objective-turing-40f08d.netlify.app). 
+
+## Domain Name
+
+A custom domain [domherriott.com](https://domherriott.com) has been set up using Google Domains and their DNS. Alias resource records are used to integrate this with the Netlify web app.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
