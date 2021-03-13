@@ -2,20 +2,20 @@
   "main": {
     "name":"Dominic Herriott",
     "occupation":"Management Consultant",
-    "description":", specialising in data science and analytics.",
+    "description":", specialising in data engineering and analytics.",
     "image":"profilepic.jpg",
-    "bio":"I'm a management consultant specialising in analytics based in London. I have strong knowledge of Python and SQL and have experience productionising these technologies to live business-critical systems.",
+    "bio":"I'm a London based management consultant specialising in data and analytics. I have strong knowledge of Python and SQL and have experience productionising these technologies to live business-critical systems.",
     "contactmessage":"N/A",
-    "email": "N/A",
+    "email": "dominicherriott@outlook.com",
     "phone": "N/A",
     "address":{
-      "street":"N/A",
+      "street":"",
       "city":"London",
-      "state":"N/A",
-      "zip": "N/A"
+      "state":"",
+      "zip": ""
     },
     "website": "TBD",
-    "resumedownload":"TBD",
+    "resumedownload":"INSERT GOOGLE DRIVE LINK HERE",
     "social":[
       {
         "name":"linkedin",
@@ -39,15 +39,15 @@
     "education":[
       {
         "school":"University of Oxford",
-        "degree":"Masters in Materials Science",
+        "degree":"Masters in Materials Science - 2:1",
         "graduated":"June 2018",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Specialised in the computational modelling of electrons within newly discovered superconducting materials."
       },
       {
         "school":"Westcliff High School for Boys",
-        "degree":"A*s in Maths, Further Maths, Physics, Chemistry",
+        "degree":"Four A*s at A-Level",
         "graduated":"June 2014",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Completed A-Levels in Maths, Further Maths, Physics and Chemistry"
       }
     ],
     "work":[
@@ -55,13 +55,13 @@
         "company":"Deloitte",
         "title":"Management Consultant",
         "years":"September 2018 - Present",
-        "description":"I joined Deloitte as a graduate and have worked on multiple projects in clients' analytics divisions. This has included building production-grade cloud based solutions to help solve business problems."
+        "description":"Joined as a graduate within the Strategy and Analytics Consulting practice and have worked on multiple business critical projects across industries. This has included building production-grade cloud based solutions to help solve business problems and provide key reporting to C-suite executives."
       },
       {
         "company":"Dyson",
         "title":"Researcher",
         "years":"June 2017 - September 2017",
-        "description":"Materials Science researcher in the New Product Technology division."
+        "description":"Materials Science researcher in the New Product Technology division. Used experimental and statistical techniques to gain new insights and develop research reports. These were then used to inform and aid development of new Dyson products."
       }
     ],
     "skills":[
@@ -70,7 +70,7 @@
         "level":"80%"
       },
       {
-        "name":"SQL",
+        "name":"SQL / PostgreSQL",
         "level":"80%"
       },
       {
@@ -82,16 +82,8 @@
         "level":"60%"
       },
       {
-        "name":"ReactJs",
-        "level":"40%"
-      },
-      {
-        "name":"CSS",
-        "level":"40%"
-      },
-      {
-        "name":"HTML5",
-        "level":"40%"
+        "name":"Atlassian",
+        "level":"60%"
       }
     ]
   },
