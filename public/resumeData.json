@@ -15,7 +15,7 @@
       "zip": ""
     },
     "website": "TBD",
-    "resumedownload":"INSERT GOOGLE DRIVE LINK HERE",
+    "resumedownload":"https://drive.google.com/file/d/1ZWT3i7-f6885gypVmii2T7e_y3HkIQWy/view?usp=sharing",
     "social":[
       {
         "name":"linkedin",
@@ -66,11 +66,11 @@
     ],
     "skills":[
       {
-        "name":"Python",
+        "name":"SQL / PostgreSQL",
         "level":"80%"
       },
       {
-        "name":"SQL / PostgreSQL",
+        "name":"Python",
         "level":"80%"
       },
       {
@@ -78,12 +78,28 @@
         "level":"70%"
       },
       {
+        "name":"Data Modelling",
+        "level":"70%"
+      },
+      {
         "name":"AWS",
         "level":"60%"
       },
       {
-        "name":"Atlassian",
+        "name":"Linux",
         "level":"60%"
+      },
+      {
+        "name":"APIs",
+        "level":"50%"
+      },
+      {
+        "name":"Docker",
+        "level":"50%"
+      },
+      {
+        "name":"Data Governance",
+        "level":"50%"
       }
     ]
   },
