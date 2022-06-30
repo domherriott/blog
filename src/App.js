@@ -45,16 +45,14 @@ class App extends Component {
       <div className="App">
       <Routes>
         <Route path="/" element={<>
-        <Header data={this.state.resumeData.main}/>
-        <About data={this.state.resumeData.main}/>
-        <Resume data={this.state.resumeData.resume}/>
-        <Portfolio data={this.state.resumeData.portfolio}/>
-        <Footer data={this.state.resumeData.main}/> </>
-             } />
-
-
-          <Route path="/otter" element={<Otter />} />
-        </Routes>
+          <Header data={this.state.resumeData.main}/>
+          <About data={this.state.resumeData.main}/>
+          <Resume data={this.state.resumeData.resume}/>
+          <Portfolio data={this.state.resumeData.portfolio}/>
+          <Footer data={this.state.resumeData.main}/> </>
+        } />
+        <Route path="/otter" element={<Otter />} />
+      </Routes>
       </div>
     );
   }
