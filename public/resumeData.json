@@ -1,8 +1,8 @@
 {
   "main": {
     "name":"Dominic Herriott",
-    "occupation":"Management Consultant",
-    "description":", specialising in data engineering and analytics.",
+    "occupation":"Data Engineer",
+    "description":" specialising in analytics and AI.",
     "image":"profilepic.jpg",
     "bio":"Management consultant specialising in data engineering and analytics. Experienced in leading teams, and working as part of a team, to design and deliver technical solutions for complex business problems. Have worked across multiple sectors and industries, and excelled working in high pressure environments delivering to tight deadlines.",
     "contactmessage":"N/A",
