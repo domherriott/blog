@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Dominic Herriott",
-    "occupation":"Data Engineer",
+    "occupation":"Lead Data Engineer",
     "description":" specialising in analytics and AI.",
     "image":"profilepic.jpg",
-    "bio":"Management consultant specialising in data engineering and analytics. Experienced in leading teams, and working as part of a team, to design and deliver technical solutions for complex business problems. Have worked across multiple sectors and industries, and excelled working in high pressure environments delivering to tight deadlines.",
+    "bio":"Data engineer experienced in designing, implementing & maintaining complex data solutions.",
     "contactmessage":"N/A",
     "email": "dominicherriott@outlook.com",
     "phone": "N/A",
@@ -66,31 +66,31 @@
     ],
     "skills":[
       {
-        "name":"SQL / PostgreSQL",
-        "level":"80%"
+        "name":"SQL",
+        "level":"90%"
       },
       {
         "name":"Python",
-        "level":"80%"
+        "level":"90%"
       },
       {
         "name":"Git",
-        "level":"70%"
+        "level":"80%"
       },
       {
-        "name":"Data Modelling",
+        "name":"Machine Learning",
         "level":"70%"
       },
       {
         "name":"AWS",
-        "level":"60%"
+        "level":"70%"
       },
       {
         "name":"Linux",
         "level":"60%"
       },
       {
-        "name":"APIs",
+        "name":"Azure",
         "level":"50%"
       },
       {
@@ -98,13 +98,19 @@
         "level":"50%"
       },
       {
-        "name":"Data Governance",
+        "name":"Javascript",
         "level":"50%"
       }
     ]
   },
   "portfolio":{
     "projects": [
+      {
+        "title":"sqlinks | Python Package",
+        "category":"Diagram your SQL data pipleines using python",
+        "image":"sqlinks.png",
+        "url":"https://github.com/domherriott/sqlinks"
+      },
       {
         "title":"Spotify - my top 20",
         "category":"Gallery of my most listened to songs on Spotify",
